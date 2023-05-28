@@ -1,6 +1,8 @@
 
 motive - post api form with angular and nodejs games api 
 
+api can be accessed in this repo in restapifolder =  https://github.com/RishikeshMane/angular_myapp
+
 completed work 
 
 1 - nodejs api is made in express and nodejs with endpoints get,post,update - get by id and delete 
